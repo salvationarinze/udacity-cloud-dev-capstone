@@ -10,7 +10,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/udagram-serverless.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/udacity-cloud-dev-capstone.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/serverless.yml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/serverless.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/src/dataLayer/todosAccess.ts" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/dataLayer/todosAccess.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/src/lambda/http/updateTodo.ts" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/lambda/http/updateTodo.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/src/requests/updateTodoRequest.ts" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/requests/updateTodoRequest.ts" afterDir="false" />
@@ -101,7 +101,7 @@
       <workItem from="1623397242138" duration="13000" />
       <workItem from="1623397269249" duration="19000" />
       <workItem from="1623397291468" duration="118000" />
-      <workItem from="1623398026097" duration="11712000" />
+      <workItem from="1623398026097" duration="11892000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1622117971153</created>
