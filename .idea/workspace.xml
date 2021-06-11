@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f5df8229-85ba-4685-bb0b-016730d341d9" name="Default Changelist" comment="Fix: Localized permissions">
+      <change afterPath="$PROJECT_DIR$/client/src/img/diary_bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/udagram-serverless.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/udacity-cloud-dev-capstone.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/serverless.yml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/serverless.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/dataLayer/todosAccess.ts" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/dataLayer/todosAccess.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/lambda/http/updateTodo.ts" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/lambda/http/updateTodo.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/requests/updateTodoRequest.ts" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/requests/updateTodoRequest.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/EditTodo.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/EditTodo.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/LogIn.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/LogIn.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Todos.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Todos.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/types/UpdateTodoRequest.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/types/UpdateTodoRequest.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1623397191" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="ProjectId" id="1t5utQ0VcVCJJxou1Up276Zi6jk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="TF_FMT" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/backend/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client/src/img" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/backend" />
+      <recent name="$PROJECT_DIR$/backend/src/models" />
+      <recent name="$PROJECT_DIR$/backend/src/lambda" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5df8229-85ba-4685-bb0b-016730d341d9" name="Default Changelist" comment="" />
+      <created>1622071485744</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622071485744</updated>
+      <workItem from="1622071493853" duration="5934000" />
+      <workItem from="1622112793119" duration="3676000" />
+      <workItem from="1622121939507" duration="17124000" />
+      <workItem from="1622724803375" duration="278000" />
+      <workItem from="1623348233944" duration="5479000" />
+      <workItem from="1623395925308" duration="1181000" />
+      <workItem from="1623397242138" duration="13000" />
+      <workItem from="1623397269249" duration="19000" />
+      <workItem from="1623397291468" duration="118000" />
+      <workItem from="1623398026097" duration="11712000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1622117971153</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1622117971153</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1622118085210</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1622118085210</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Fix: Localized permissions">
+      <created>1622146406387</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1622146406387</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Fix: Localized permissions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix: Localized permissions" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="178" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1623423236714">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="178" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.812@0.23.1440.812" timestamp="1623423236714" />
+    <state x="527" y="152" key="#com.intellij.ide.util.MemberChooser" timestamp="1623403274218">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="527" y="152" key="#com.intellij.ide.util.MemberChooser/0.23.1440.812@0.23.1440.812" timestamp="1623403274218" />
+    <state width="1396" height="198" key="GridCell.Tab.0.bottom" timestamp="1622147471858">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1396" height="198" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1622147471858" />
+    <state width="1396" height="198" key="GridCell.Tab.0.center" timestamp="1622147471856">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1396" height="198" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1622147471856" />
+    <state width="1396" height="198" key="GridCell.Tab.0.left" timestamp="1622147471851">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1396" height="198" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1622147471851" />
+    <state width="1396" height="198" key="GridCell.Tab.0.right" timestamp="1622147471857">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1396" height="198" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1622147471857" />
+    <state x="221" y="68" key="SettingsEditor" timestamp="1623397201010">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="221" y="68" key="SettingsEditor/0.23.1440.812@0.23.1440.812" timestamp="1623397201010" />
+    <state x="320" y="154" key="Vcs.Push.Dialog.v2" timestamp="1622146408476">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="320" y="154" key="Vcs.Push.Dialog.v2/0.23.1440.812@0.23.1440.812" timestamp="1622146408476" />
+    <state x="422" y="186" width="596" height="486" key="find.popup" timestamp="1623423250569">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="422" y="186" width="596" height="486" key="find.popup/0.23.1440.812@0.23.1440.812" timestamp="1623423250569" />
+  </component>
+</project>
