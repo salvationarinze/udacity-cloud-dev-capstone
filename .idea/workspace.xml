@@ -6,20 +6,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5df8229-85ba-4685-bb0b-016730d341d9" name="Default Changelist" comment="Fix: Localized permissions">
-      <change afterPath="$PROJECT_DIR$/client/src/img/diary_bg.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/udagram-serverless.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/udacity-cloud-dev-capstone.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/dataLayer/todosAccess.ts" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/dataLayer/todosAccess.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/lambda/http/updateTodo.ts" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/lambda/http/updateTodo.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/requests/updateTodoRequest.ts" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/requests/updateTodoRequest.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/EditTodo.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/EditTodo.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/LogIn.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/LogIn.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Todos.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Todos.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/config.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/types/UpdateTodoRequest.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/types/UpdateTodoRequest.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,6 +90,8 @@
       <workItem from="1623397269249" duration="19000" />
       <workItem from="1623397291468" duration="118000" />
       <workItem from="1623398026097" duration="11892000" />
+      <workItem from="1623425110237" duration="183000" />
+      <workItem from="1623490815238" duration="211000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1622117971153</created>
@@ -124,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622146406387</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Fix: Localized permissions">
+      <created>1623425168231</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1623425168232</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,10 +175,10 @@
       <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state x="221" y="68" key="SettingsEditor/0.23.1440.812@0.23.1440.812" timestamp="1623397201010" />
-    <state x="320" y="154" key="Vcs.Push.Dialog.v2" timestamp="1622146408476">
+    <state x="320" y="154" key="Vcs.Push.Dialog.v2" timestamp="1623425170196">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
-    <state x="320" y="154" key="Vcs.Push.Dialog.v2/0.23.1440.812@0.23.1440.812" timestamp="1622146408476" />
+    <state x="320" y="154" key="Vcs.Push.Dialog.v2/0.23.1440.812@0.23.1440.812" timestamp="1623425170196" />
     <state x="422" y="186" width="596" height="486" key="find.popup" timestamp="1623423250569">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
